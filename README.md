@@ -1,6 +1,6 @@
 # uts-dw-RizwanFauzianiIlham-4524210094
 Nama: Rizwan Fauziani Ilham
-NPM: 4524210094
+NIM: 4524210094
 Topik: Kreator Kartu Produk Nusantara Marketplace
 
 - [ ] Repositori GitHub sudah dibuat
